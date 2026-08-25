@@ -13,11 +13,9 @@ source zip. No calculations, no rankings, no editorial layer.
 ### Looking through the [nursing-home-records](https://github.com/jkeegan256-philanthos/nursing-home-records) repository
 
 * **[PROJECT.md](https://github.com/jkeegan256-philanthos/nursing-home-records/blob/main/PROJECT.md)**
-  is the charter: purpose, principles, and the scope declined on
-  purpose.
-* **[DECISIONS.md](https://github.com/jkeegan256-philanthos/nursing-home-records/blob/main/DECISIONS.md)**
-  is the log beside it: what was shipped and then reversed, dated and
-  at full length, including the corrections that were embarrassing.
+  is the charter: purpose, principles, declined scope, and a decision
+  log that records what was shipped and then reversed, with the
+  reasoning at full length.
 * **[ADAPTATION.md](https://github.com/jkeegan256-philanthos/nursing-home-records/blob/main/ADAPTATION.md)**
   lists which parts are specific to this dataset, for anyone adapting
   the pipeline to another one.
